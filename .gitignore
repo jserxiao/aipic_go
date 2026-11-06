@@ -1,0 +1,25 @@
+# 编译输出
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# 数据库文件
+data/
+
+# 上传文件
+uploads/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 依赖
+vendor/
